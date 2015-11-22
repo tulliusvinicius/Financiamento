@@ -1,4 +1,4 @@
-# Simulador de financimaneto
+# Simulador de financiamento
 
 Exemplo em selenium para testar:
 

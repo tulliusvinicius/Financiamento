@@ -1,6 +1,7 @@
 # Simulador de financimaneto
 
+Exemplo em selenium para testar:
 
-  - Testando o prazo do financiamento;
-  - Testando um valor superior ao valor do imóvel.
+  - o prazo do financiamento;
+  - um valor superior ao valor do imóvel.
 
